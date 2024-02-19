@@ -1,6 +1,6 @@
 # LLama2 7B JavaScript Code Generator
 
-![Project Image](project_image.png)
+
 
 LLama2 7B JavaScript Code Generator is a Streamlit web application that utilizes the LLama2 7B language model to generate JavaScript code based on user input. The model is pre-trained on a variety of JavaScript code samples and can generate contextually relevant code snippets.
 
